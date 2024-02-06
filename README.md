@@ -1,4 +1,4 @@
-# M5 - Kenzie Buster
+# Easy Movies
 
 ## Preparando ambiente para execução dos testes
 
